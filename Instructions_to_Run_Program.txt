@@ -1,0 +1,10 @@
+1. Download and Install Python: Download and install Python from the official website.
+2. Download the Project File: Download and unzip the project file.
+3. Open Command Prompt: Open the command prompt on your device.
+4. Install Required Package: Install the mlxtend package, which contains libraries such as Apriori, FP-Tree algorithms, and association rules, by using the command pip install mlxtend.
+5. Navigate to the Project Folder: In the command prompt, navigate to the folder where you saved the unzipped file, and run the following command:
+6. Mohammed_Sameer_Khan_Midterm_Project.py.
+7. Select a Company: When prompted, select a company by entering the corresponding number (between 1 and 7) from the list.
+8. Enter Minimum Support and Confidence: You will be prompted to enter values for minimum support and confidence. Provide a percentage between 1 and 100.
+9. View Results: The code will execute and output the frequent itemsets and association rules for the Brute Force, Apriori, and FP-Tree algorithms.
+10. Execution Time: Finally, it will display the time taken to execute each of the Brute Force, Apriori, and FP-Tree algorithms.
